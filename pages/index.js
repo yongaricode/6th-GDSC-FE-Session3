@@ -2,7 +2,7 @@ import { MdTranslate } from "react-icons/md";
 
 export default function Home() {
   const text = "영화, 시리즈 등을\n무제한으로";
-  const buttonText = "시작하기  >";
+ 
   return (
     <div className="min-h-screen min-w-screen bg-black">
       <div className="header-wrapper pl-[148px] pr-[148px] pt-[14px] flex justify-between items-center">
